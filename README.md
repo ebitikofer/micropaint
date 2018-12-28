@@ -10,7 +10,7 @@
 
 ### CONTROLS: ###  
 #### Movement : (Accelerometer) ####
-  :arrow_up:: move up
+  :arrow_up:: move up  
   :arrow_down:: move down  
   :arrow_left:: move left  
   :arrow_right:: move right  
@@ -21,5 +21,7 @@
 
 ### TODO: ###
 
-- [x] todo 1
-- [ ] todo 2
+- [x] pulsing cursor
+- [ ] line mode
+- [ ] detail mode
+- [ ] variable cursor visibility
